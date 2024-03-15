@@ -1,0 +1,16 @@
+#course-container{
+   
+    height: 580px;
+    width: 40%;
+    margin-left: 400px;
+   
+}
+#course-Card{
+    margin-left: 100px;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#btngroup{
+    
+    margin-left: 100px;
+}

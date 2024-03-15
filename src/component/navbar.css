@@ -1,0 +1,44 @@
+#navbar{
+   
+    height: 75px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+  
+    background-color: rgb(34, 34, 244);
+}
+#logo>h1{
+    font-weight: bolder;
+    color: white;
+    font-size: 35px;
+}
+#logo{
+   
+    margin-left: 50px;
+}
+#btn{
+  
+    width: 40%;
+    
+}
+.button{
+    margin-left: 60px;
+    height: 30px;
+    width: 90px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.button:hover{
+
+    background-color: white;
+    color: black;
+}
+#contact{
+    background-color: yellow;
+    color: black;
+
+}
